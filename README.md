@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am @chytrakr, A Web developer with more than 5 years of professional experience. I'm interested in all kinds of technologies, but my major focus is on developing and designing the web.
+I am [Chytra K R](https://chytra.dev), A Web developer with more than 5 years of professional experience. I'm interested in all kinds of technologies, but my major focus is on developing and designing the web.
 
 I am constantly learning web technologies and other design related topics, playing around with Javascript.
 

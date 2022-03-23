@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Web developer with more than 5 years of professional experience. I'm interested in all kinds of technologies, but my major focus is on developing and designing the web.
+
+I am constantly learning web technologies and other design related topics, playing around with Javascript.
+
 <!--
 **chytrakr/chytrakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
